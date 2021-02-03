@@ -11,4 +11,4 @@
 * [Lizzy](https://github.com/FSUdigitalmedia/interactive-narrative-lizzyzarrello)
 * [Maria](https://github.com/FSUdigitalmedia/interactive-narrative-MariaRose913)
 * [Mitch](https://github.com/FSUdigitalmedia/interactive-narrative-mitchreynolds)
-* Marion
+* [Marion](https://github.com/FSUdigitalmedia/interactive-narrative-Walkerm0927)
