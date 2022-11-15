@@ -1,4 +1,4 @@
-# Editing this Site
+# Editing this Website
 
 First, install `hugo` by downloading the hugo-extended binary for your operating system, from here <https://gohugo.io/installation/>
 
