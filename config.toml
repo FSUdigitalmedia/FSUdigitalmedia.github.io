@@ -1,5 +1,5 @@
 baseURL = "https://FSUdigitalmedia.github.io"
-title = "FSU Creative Coding"
+title = "FSU Electronic Art"
 theme = "etch"
 languageCode = "en-US"
 enableInlineShortcodes = true
@@ -8,15 +8,15 @@ pygmentsUseClasses = true
 publishDir = "docs"
 
 [params]
-  description = "FSU Art Students' Work from ART4652C"
+  description = "FSU Department of Art Portolio of Digital Student Work"
   dark = "auto"
   highlight = true
 
 [menu]
   [[menu.main]]
     identifier = "posts"
-    name = "students"
-    title = "students"
+    name = "portfolio"
+    title = "portfolio"
     url = "/"
     weight = 10
 

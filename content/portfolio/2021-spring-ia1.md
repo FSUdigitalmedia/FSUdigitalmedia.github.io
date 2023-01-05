@@ -1,5 +1,5 @@
 ---
-title: "2021 Spring"
+title: "2021 Spring // Interactive Art 1: Creative Coding"
 date: 2022-11-15T12:13:34-05:00
 draft: false
 ---

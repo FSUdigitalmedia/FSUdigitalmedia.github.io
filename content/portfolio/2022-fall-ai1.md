@@ -1,5 +1,5 @@
 ---
-title: "2022 Fall"
+title: "2022 Fall // Interactive Art 1: Creative Coding"
 date: 2022-11-15T12:16:10-05:00
 draft: false
 ---
@@ -38,7 +38,7 @@ Tools used: git, GitHub, Visual Studio Code, twee3, html/css
 * [Trout's Mouth Landing](https://craigmoore3.github.io/trouts-mouth-landing/) by Craig Moore [\[GitHub repo\]](https://github.com/craigmoore3/trouts-mouth-landing)
 * [Johnny's Adventures](https://gparagas4.github.io/3mstory/) by Gustav Paragas [\[GitHub repo\]](https://github.com/gparagas4/3mstory)
 * [Alone](https://kns21a.github.io/Alone-3minute-story/) by Kayla Simpson [\[GitHub repo\]](https://github.com/kns21a/Alone-3minute-story)
-* [Birds of a Feathre](https://nonexistent-unicorn.github.io/3minstory/) by Olivia Stone [\[GitHub repo\]](https://github.com/nonexistent-unicorn/3minstory)
+* [Birds of a Feather](https://nonexistent-unicorn.github.io/3minstory/) by Olivia Stone [\[GitHub repo\]](https://github.com/nonexistent-unicorn/3minstory)
 * [Cryptids Across the Country](https://ashtonellis.github.io/narrative/) by Ashton Ellis [\[GitHub repo\]](https://github.com/ashtonellis/narrative)
 
 ### Programming Interactivity
