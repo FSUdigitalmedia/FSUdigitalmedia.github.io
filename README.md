@@ -34,7 +34,7 @@ Assuming you've cloned this repo (or your fork) to your computer, as described a
 
 Again, assuming you've cloned this repo (or your fork) to your computer, as described above:
 
-1. Run `hugo new portfolio/YYYY-SEMESTER-COURSE.md` (replace YYYY and SEMESTER, of course, and use a short abbreviation for COURSE)
+1. From the repo directory, run `hugo new portfolio/YYYY-SEMESTER-COURSE.md` (replace YYYY and SEMESTER, of course, and use a short abbreviation for COURSE)
 2. Edit the markdown file in content/portfolio (look at other files in that folder for the format)
 3. Run `hugo server -D -t etch` to preview the site locally
 4. Commit and push to GitHub, where GitHub Actions will rebuild the site
