@@ -1,7 +1,7 @@
 ---
 title: "2023 Fall // Interactive Art 1: Creative Coding"
 date: 2024-02-08T14:49:02-05:00
-draft: true
+draft: false
 ---
 
 🏆 = Featured Projects
